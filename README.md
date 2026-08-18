@@ -80,14 +80,6 @@ Phase 6: Desktop & Offline Sync ◄─ Phase 5: Hardware & Peripheral Integratio
 
 ## 3. Seeded Demo Accounts & Credentials
 
-| Tenant Store | Code | Role | Email | Password | PIN Code |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Platform Super Admin** | `SUPER-TENANT` | `SUPER_ADMIN` | `superadmin@pos.local` | `Admin@12345` | `9999` |
-| **Apex Retail Mart** | `APEX-01` | `STORE_ADMIN` | `admin@apex.local` | `Apex@12345` | `1111` |
-| **Apex Retail Mart** | `APEX-01` | `STORE_MANAGER` | `manager@apex.local` | `Apex@12345` | `2222` |
-| **Apex Retail Mart** | `APEX-01` | `CASHIER` | `cashier@apex.local` | `Apex@12345` | `1234` |
-| **Bistro Deluxe Cafe** | `BISTRO-01` | `STORE_ADMIN` | `admin@bistro.local` | `Bistro@12345` | `3333` |
-| **Bistro Deluxe Cafe** | `BISTRO-01` | `CASHIER` | `waiter@bistro.local` | `Bistro@12345` | `5678` |
 
 ---
 
